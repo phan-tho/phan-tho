@@ -7,3 +7,8 @@ My name is Phan Tho. I'm student at University of Engineer and Technology. I'm i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phan-tho&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/phan-tho/Sic-bo/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&repo=Sic-bo&theme=radical" />
+</a>  
