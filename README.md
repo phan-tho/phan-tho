@@ -13,3 +13,8 @@ My name is Phan Tho. I'm student at University of Engineer and Technology. I'm i
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&repo=Sic-bo&theme=radical" />
 </a>  
+
+<a href="https://github.com/phan-tho/SicBo0.0.1/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&repo=SicBo0.0.1&theme=radical" />
+</a>  
