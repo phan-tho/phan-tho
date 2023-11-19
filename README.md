@@ -1,8 +1,8 @@
 ### 👋 WELCOME TO MY PAGE
 My name is Phan Tho. I'm a student at University of Engineer and Technology. I'm interested in learning and exploring the field of AI and Data Science. But currently I'm learning iOS app development.
 ## How to contact me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/profile.php?id=100054615060962) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](linkedin.com/in/phan-bá-thọ-96088928a) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054615060962) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phan-bá-th%E1%BB%8D-96088928a/) 
 
 ![Phan Tho's GitHub stats](https://github-readme-stats.vercel.app/api?username=phan-tho&hide=contribs,prs,issues&theme=radical)
 
