@@ -7,14 +7,10 @@ My name is Phan Tho. I'm a student at University of Engineer and Technology. I'm
 ![Phan Tho's GitHub stats](https://github-readme-stats.vercel.app/api?username=phan-tho&hide=contribs,prs,issues&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=phan-tho&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/phan-tho/Sic-bo/">
+<a href="https://github.com/phan-tho/Tai-Xiu/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&repo=Sic-bo&theme=radical" />
-</a>  
-
-<a href="https://github.com/phan-tho/SicBo0.0.1/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&repo=SicBo0.0.1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phan-tho&Tai-Xiu&theme=radical" />
 </a>  
