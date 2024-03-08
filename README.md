@@ -8,6 +8,12 @@ My name is Phan Tho. I'm a student at University of Engineer and Technology. I'm
 
 ---
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=phan-tho&label=Profile%20Views&color=3&icon=5&pretty=false" />
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=phan-tho&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=phan-tho&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
