@@ -3,6 +3,7 @@ My name is Phan Tho. I'm a student at University of Engineer and Technology. I'm
 ## How to contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054615060962) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phan-bá-th%E1%BB%8D-96088928a/) 
+[![Codeforce](https://img.shields.io/badge/Codeforce-%231877F2.svg?logo=Codeforce&logoColor=white)](https://codeforces.com/profile/PhanTho)
 
 ![Phan Tho's GitHub stats](https://github-readme-stats.vercel.app/api?username=phan-tho&hide=contribs,prs,issues&theme=radical)
 
